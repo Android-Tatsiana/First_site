@@ -1,0 +1,45 @@
+/* Global style
+---------------------------------*/
+body {
+  color:#343434;
+}
+img {
+  width: 300px;
+}
+header {
+  background: #74b6ce;
+}
+.myname {
+  columns: 2;
+}
+.q {
+  align-content: flex-start;
+}
+/* Projects
+---------------------------------*/
+.featured-projects {
+  background: #d2f0f2;
+}
+a:hover {
+  color: green;
+}
+a:visited {
+  color: red;
+}
+
+/*Work experience
+---------------------------------*/
+.work-experience {
+  background: #f7ce77;
+}
+
+/*Education
+---------------------------------*/
+.education {
+  background: #eeb094;
+}
+/*Contact info
+---------------------------------*/
+footer {
+  background: #74b6ce;
+}
